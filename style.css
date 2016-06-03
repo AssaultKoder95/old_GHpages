@@ -1,0 +1,23 @@
+/* 
+
+Author 	: Abhishek khanna
+Date 	: 02 - 06 - 2016
+Comment : Stylesheet for my github profile
+
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Gabriela);
+
+body {
+
+	background-color: grey;
+}
+
+h1 {
+	font-family: 'Gabriela' , serif ;
+}
+
+.txtcen {
+	padding: 40px 50px;
+	text-align: center;
+}

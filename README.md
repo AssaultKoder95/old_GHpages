@@ -1,2 +1,3 @@
-# old_GHpages
-This was developed to test GH pages to host personal webiste
+# AssualtKoder95.github.io
+
+This is my personal website 
